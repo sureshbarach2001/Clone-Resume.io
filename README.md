@@ -20,13 +20,13 @@ If you prefer working locally with your own IDE:
 1. **Clone the repository**:
 
     ```sh
-    git clone <YOUR_GIT_URL>
+    git clone https://github.com/sureshbarach2001/Clone-Resume.io.git
     ```
 
 2. **Navigate to the project directory**:
 
     ```sh
-    cd <YOUR_PROJECT_NAME>
+    cd Clone-Resume.io
     ```
 
 3. **Install the necessary dependencies**:
